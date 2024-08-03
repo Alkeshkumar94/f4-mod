@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f4-mod/static/css/main.fbab1e6b.css",
+    "main.js": "/f4-mod/static/js/main.06416505.js",
+    "index.html": "/f4-mod/index.html",
+    "main.fbab1e6b.css.map": "/f4-mod/static/css/main.fbab1e6b.css.map",
+    "main.06416505.js.map": "/f4-mod/static/js/main.06416505.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbab1e6b.css",
+    "static/js/main.06416505.js"
+  ]
+}
